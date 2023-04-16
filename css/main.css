@@ -1,7 +1,7 @@
 *{
     font-family: 'LXGW WenKai', 'Fira Code', Arial, Helvetica, sans-serif;
 }
-md-block.mainfield {
+div.mainfield {
     background-color: bisque;
     color: black;
 }
